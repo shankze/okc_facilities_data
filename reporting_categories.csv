@@ -1,0 +1,53 @@
+reporting_category,REVISED_COLUMNNAME
+Acid Gas Removal Units [98.236(d)],AcidGasRemovalUnits
+AcidGasRemovalUnitsDetails,AcidGasRemovalUnits
+Associated Gas Venting and Flaring [98.236(m)],AssociatedGasVentingFlaring
+AssociatedGasVentingFlaringDetails,AssociatedGasVentingFlaring
+Atmospheric Storage Tanks [98.236(j)],AtmosphericTanks
+AtmosphericTanksDetails,AtmosphericTanks
+CentrifugalCompressorsDetails,CentrifugalCompressors
+Combustion Equipment at Onshore Petroleum and Natural Gas Production and Natural Gas Distribution Facilities [98.236(z)],CentrifugalCompressors
+"Combustion Equipment at Onshore Petroleum and Natural Gas Production Facilities, Onshore Petroleum and Natural Gas Gathering and Boosting Facilities, and Natural gas Distribution Facilities [98.236(z)",CombustionEquipment
+CombustionEmissionsDetails,CombustionEquipment
+Completions and Workovers with Hydraulic Fracturing [98.236(g)],CompletionsandWorkovers_w_HydFrac
+Completions and Workovers without Hydraulic Fracturing [98.236(h)],CompletionsandWorkovers_wo_HydFrac
+Dehydrators [98.236(c)(4)],Dehydrators
+Dehydrators [98.236(e)],Dehydrators
+DehydratorsDetails,Dehydrators
+EnhancedOilRecoveryHydrocarbonLiquidsDissolvedDetails,EOR_HC_Liquids
+EnhancedOilRecoveryInjectionPumpBlowdownDetails,EOR_InjPumpBlowdown
+"Equipment Leaks Surveys and Population Counts [98.236(q,r)]",EquipmentLeaks
+Flare Stacks [98.236(n)],FlareStacks
+FlareStacksDetails,FlareStacks
+FLR (Flare),FlareStacks
+Gas from Produced Oil Sent to Atmospheric Tanks [98.236(c)(8)],GasProdOilToAtmTanks
+Gas Well Completions and Workovers [98.236(c)(6)],GasWellCompletions
+"Gas Well Completions and Workovers [98.236(g,h)]",GasWellCompletions
+"HMH (Heater, heat medium for heat exchange)",Heaters
+Natural Gas Driven Pneumatic Pumps [98.236(c)(2)],NG_PneumaticPumps
+Natural Gas Driven Pneumatic Pumps [98.236(c)],NG_PneumaticPumps
+Natural Gas Pneumatic Devices [98.236(b)],NG_PneumaticDevices
+Natural Gas Pneumatic Devices [98.236(c)(1)],NG_PneumaticDevices
+NaturalGasDrivenPneumaticPumpsDetails,NG_PneumaticPumps
+"NGLH (Heater, natural gas line)",Heaters
+"OB (Boiler, other)",Boilers
+OCS (Other combustion source),Group_CombustionSources
+Offshore Petroleum and Natural Gas Production [98.236(s)],Offshore_Prod
+OffshoreEmissionsDetails,Offshore_Prod
+Onshore Petroleum and Natural Gas Production and Natural Gas Distribution Combustion Emissions [98.236(c)(19)],Other
+Other Emissions from Equipment Leaks Estimated Using Emission Factors [98.236(c)(15)],EquipmentLeaks
+OtherEmissionsFromEquipmentLeaksDetails,EquipmentLeaks
+PneumaticDeviceVentingDetails,NG_PneumaticDevices
+PRH (Process Heater),Heaters
+Production Storage Tanks [98.236(j)],AtmosphericTanks
+Reciprocating Compressors [98.236(c)(14)],ReciprocatingCompressors
+Reciprocating Compressors [98.236(p)],ReciprocatingCompressors
+ReciprocatingCompressorsDetails,ReciprocatingCompressors
+RICE (Reciprocating internal combustion engine),ReciprocatingCompressors
+"SCCT (CT (Turbine, simple cycle combustion))",Turbines
+Well Testing [98.236(l)],WellTesting
+Well Venting for Liquids Unloading [98.236(c)(5)],WellVenting
+Well Venting for Liquids Unloading [98.236(f)],WellVenting
+WellCompletionsWorkoversDetails,WellCompletions
+WellTestingDetails,WellTesting
+WellVentingDetails,WellTesting
